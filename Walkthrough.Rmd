@@ -2,7 +2,7 @@
 title: "Research Methods (year 1) -- Visualization Walk through"
 author: "Jens Roeser"
 date: "August 22 2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 
